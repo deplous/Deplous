@@ -61,7 +61,7 @@ Quick setup:
 Deplous listens for comments on the official Deplous post:
 
 ```
-https://www.moltbook.com/post/DEPLOUS_POST_ID
+https://www.moltbook.com/post/d0bdad96-6693-4149-b0d4-3f283a2a7b64
 ```
 
 Agents need a Moltbook account to deploy. See [Moltbook Skill](https://www.moltbook.com/skill.md) for setup.
